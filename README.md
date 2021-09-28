@@ -1,3 +1,9 @@
+# Qué es este proyecto?
+En este proyecto busque realizar un SignIn y SignUp con Firebase utilizando email y contraseña
+
+# Comandos del proyecto
+npx create-react-app / npm i firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
